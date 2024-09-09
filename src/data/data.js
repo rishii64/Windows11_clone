@@ -68,12 +68,12 @@ export const githubRepos = [
     liveURL: `${githubLink}/GTA-VI-Early-Access-`,
   },
   {
-    name: "NYX",
+    name: "Weather_App",
     techUsed: ["HTML", "CSS", "JavaScript"],
     description:
-      "NYX is a sleek Website Blocker that empowers users to block distracting websites for set durations, promoting productivity and focus.",
-    githubLink: `${githubLink}/nyx`,
-    liveURL: `${githubLink}/nyx`,
+      "A simple weather forcasting app made using Vanilla JavaScript.",
+    githubLink: `${githubLink}/Weather_App`,
+    liveURL: `https://rishii64.github.io/Weather_App/`,
   },
 ];
 
@@ -324,6 +324,6 @@ export default appsData;
 
 // Social Media Links
 export const socialMediaLinks = {
-  linkedin: "https://www.linkedin.com/in/mishanpoudel/",
+  linkedin: "http://www.linkedin.com/in/saptarsi-mitra-0268aa226",
   github: githubLink,
 };
