@@ -21,7 +21,7 @@ import {
 } from "devicons-react";
 
 // Constants
-const githubLink = "https://github.com/MishanPoudel";
+const githubLink = "https://github.com/rishii64";
 
 // Profile Description
 export const profileDescription = [
@@ -46,18 +46,18 @@ export const workExperienceTemplate = [
 export const githubRepos = [
   {
     name: "Portfolio",
-    techUsed: ["Next.js", "TailwindCSS"],
+    techUsed: ["React", "TailwindCSS"],
     description: "Uncover deeper insights into my journey and capabilities.",
-    githubLink: `${githubLink}/Portfolio`,
-    liveURL: "https://portfolio-vert-one-79.vercel.app/",
+    githubLink: `${githubLink}/My_3D_Portfolio`,
+    liveURL: "https://saptarsimitra.vercel.app/",
   },
   {
-    name: "Emoji-TicTacToe",
-    techUsed: ["React", "TailwindCSS"],
+    name: "India Tourism",
+    techUsed: ["React", "CSS"],
     description:
-      "Emoji TicTacToe adds a fun twist to the classic game with colorful emojis, offering single and local multiplayer modes, responsive design, and captivating animations.",
+      "A tourism website showcasing the best possible ways to entertain yourself, embarking on a virtual odyssey through the enchanting landscapes, rich heritage, and vibrant culture of India.",
     githubLink: `${githubLink}/Emoji-TicTacToe`,
-    liveURL: "https://emoji-tic-tac-toe.vercel.app/",
+    liveURL: "https://sm-india-tourism.netlify.app/",
   },
   {
     name: "GTA-VI(Early Access)",
